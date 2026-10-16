@@ -1,0 +1,7 @@
+name = "toffee-proxy"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+# চাইলে env var দিয়ে টোকেন রাখতে পারো (নিচে ব্যাখ্যা আছে)
+# [vars]
+# TOFFEE_TOKEN = ""
